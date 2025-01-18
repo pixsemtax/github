@@ -1,0 +1,18 @@
+*{
+  background-color: #dd4826;
+  color: #f6b817;
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#img {
+    margin: auto;
+    display: block;
+}
