@@ -1,0 +1,30 @@
+*{
+    background-color: #dd4826;
+    font-size: 25px;
+    color: #f6b817;
+}
+
+button{
+    border: 2px solid #f6b817;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+#b1{
+    margin-left: 100px;
+    text-align: left;
+}
+
+#b11{
+    margin-left: 100px;
+    text-align: left;
+}
+
+.cont-buttons{
+    padding-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}
